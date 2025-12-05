@@ -1,0 +1,9 @@
+{
+  "name": "Plant Detector AI",
+  "description": "A smart agricultural assistant for farmers using Gemini Vision AI for plant identification and disease diagnosis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
